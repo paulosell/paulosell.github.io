@@ -1,0 +1,57 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Paulo Sell
+tagline:             'Graduando em Engenharia de Telecomuniações'
+description:         'A small website to introduce you to myself'
+url:                 https://paulosell.github.io/
+baseurl:             ''
+markdown:            kramdown
+highlighter:         rouge
+
+
+
+# markdown:            redcarpet
+
+# About/contact
+author:
+  name:              Paulo Sell
+  url:               https://paulosell.github.io/
+  email:             sellpaulof@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+#Disqus
+disqus_shortname: paulosell
+
+# Gems
+plugins: 
+  - jekyll-sitemap
+  - jekyll/scholar
+  # - jekyll-related-posts
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+
+# related:
+#     max_count: 5
+#     min_score: 0.1
+#     accuracy: 0.75
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+#   trail: 
+#     before: 2
+#     after: 2
