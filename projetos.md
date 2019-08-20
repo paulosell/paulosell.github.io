@@ -227,7 +227,7 @@ title: Projetos
 <a class="portfolio-link" data-toggle="modal" href="https://github.com/paulosell/pySnake">
 <div class="portfolio-hover">
 <div class="portfolio-hover-content">
-  <i class="fa fa-plus fa-3x">Jogo clássico 'snake' implementado em Python utilizando módulo curses
+  <i class="fa fa-plus fa-3x">Jogo clássico 'snake' implementado em Python utilizando módulo pygame
 .</i>
 </div>
 </div>
