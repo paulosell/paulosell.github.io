@@ -227,14 +227,28 @@ title: Projetos
 <a class="portfolio-link" data-toggle="modal" href="https://github.com/paulosell/pySnake">
 <div class="portfolio-hover">
 <div class="portfolio-hover-content">
-  <i class="fa fa-plus fa-3x">Jogo clássico 'snake' implementado em Python utilizando módulo pygame
-.</i>
+  <i class="fa fa-plus fa-3x">Jogo clássico 'snake' implementado em Python utilizando módulo pygame.</i>
 </div>
 </div>
 <img class="img-fluid" src="/files/snake.png" alt="">
 </a>
 <div class="portfolio-caption">
   <h4>pySnake</h4>
+  <p class="text-muted">Python</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 portfolio-item">
+<a class="portfolio-link" data-toggle="modal" href="https://github.com/paulosell/pingandnopong">
+<div class="portfolio-hover">
+<div class="portfolio-hover-content">
+  <i class="fa fa-plus fa-3x">Simples catch game implementado em Python utilizando módulo pygame.</i>
+</div>
+</div>
+<img class="img-fluid" src="/files/ping.png" alt="">
+</a>
+<div class="portfolio-caption">
+  <h4>Catch game</h4>
   <p class="text-muted">Python</p>
 </div>
 </div>
