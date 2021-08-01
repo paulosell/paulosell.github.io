@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: default
 title: Resume
+sidebar_link: true
 ---
 
 
