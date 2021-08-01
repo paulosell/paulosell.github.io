@@ -5,4 +5,4 @@ sidebar_link: true
 ---
 
 
-You can find my resume [here](link)
+You can find my resume [here](resume.pdf).
